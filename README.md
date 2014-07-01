@@ -1,4 +1,29 @@
-Errors
-======
+basewars-issues
+================
 
-Report errors here :D
+This is the BasewarsRevival issue tracker. READ THIS BEFORE DOING ANYTHING:
+
+Help and Support
+---
+* This is not the place for help and support.
+* Post here instead: http://steamcommunity.com/groups/BasewarsRevival/discussions/2/
+
+Reporting Bugs
+---
+
+* Please avoid adding [tags] to your titles
+* Please don't report bugs with addons - report them to the author.
+* If you're the author of an addon and think a change we made is causing your addon to fail - then please report it.
+* Please be thorough in your bug report. Tell us everything.
+* If you can recreate the bug give us step by step
+* Make sure the bug hasn't already been reported
+
+
+Feature Request
+---
+
+* This is not the place for feature requests. Go here: https://github.com/BasewarsRevival/basewars-requests
+
+Official Steamgroup
+---
+http://steamcommunity.com/groups/BasewarsRevival
